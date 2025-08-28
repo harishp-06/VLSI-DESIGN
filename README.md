@@ -1,3 +1,6 @@
+Name: Harish kumar P
+Reg No: 212223060086
+
 # Aim:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 Experiment:
 Develop a comprehensive report for the following exercises:
@@ -11,8 +14,6 @@ Develop a comprehensive report for the following exercises:
 1.2 Set the target audience level (e.g., students, professionals)
 1.3 Draft a list of core topics to cover# PROMPT-ENGINEERING- 1.	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 ```
-Name: Harish kumar P
-Reg No: 212223060086
 ```
 Experiment:
 Develop a comprehensive report for the following exercises:
